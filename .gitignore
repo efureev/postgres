@@ -1,0 +1,10 @@
+# IDEs
+/.idea
+.DS_Store
+
+/versions
+/data
+/temp
+/tmp
+/build
+/.build

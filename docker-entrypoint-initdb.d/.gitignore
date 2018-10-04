@@ -1,0 +1,2 @@
+*.sh
+!init-user-db.sh
