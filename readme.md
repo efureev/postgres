@@ -9,4 +9,4 @@
   - `docker exec -it postgres psql -h postgres -U postgres` # запустить console psql
 
 ### Links
-  - (Docker hub)[https://hub.docker.com/_/postgres/]
+  - [Docker hub](https://hub.docker.com/_/postgres)
